@@ -1,3 +1,2 @@
 # Project_Euler
-Solutions of the project euler that I've done
-Use at your own risk.
+testing github with project euler problem i've done
